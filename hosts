@@ -1,22 +1,15 @@
-# 吃栗子的hosts
+# U want eat a Chestnut ask Yucos
 # https://github.com/Yucos/-hosts
-# Last updated: 2017-01-09 早上
+# Last updated: 2017-01-09 
 
-# Localhost (DO NOT REMOVE)
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
 
-# Modified hosts start
-
-# Armorgames Start
 93.184.220.39	cache.armorgames.com
 93.184.220.39	gamemedia.armorgames.com
 93.184.220.39	quests.armorgames.com
 93.184.220.39	armatars.armorgames.com
 93.184.220.39	agi.armorgames.com
-# Armorgames End
-
-# Amazon AWS Start
 54.239.31.69	aws.amazon.com
 54.239.30.25	console.aws.amazon.com
 54.239.96.90	ap-northeast-1.console.aws.amazon.com
@@ -39,9 +32,6 @@
 54.240.254.230	us-west-2.console.aws.amazon.com
 52.216.80.48	github-cloud.s3.amazonaws.com
 54.231.48.40	github-com.s3.amazonaws.com
-# Amazon AWS End
-
-# Apkpure Start
 104.20.82.194	apkpure.com
 104.20.82.194	a.apkpure.com
 104.20.82.194	download.apkpure.com
@@ -142,9 +132,6 @@
 108.160.172.236	client.dropbox.com
 108.160.172.236	client.v.dropbox.com
 108.160.172.227	log.getdropbox.com
-# Dropbox End
-
-# DuckDuckGo Start
 46.51.216.186	duckduckgo.com
 46.51.216.186	www.duckduckgo.com
 46.51.216.186	ac.duckduckgo.com
@@ -3366,6 +3353,3 @@
 183.177.81.75	downloadr.flickr.com
 50.18.192.250	duckduckgo-owned-server.yahoo.net
 116.214.11.98	tw.mobi.yahoo.com
-# Yahoo End
-
-# Modified hosts end
