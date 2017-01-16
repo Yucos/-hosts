@@ -1,10 +1,9 @@
 # U want eat a Chestnut ask Yucos
 # https://github.com/Yucos/-hosts
-# Last updated: 2017-01-09 
+# Last updated: 14/Jan/2017
 
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
-
 93.184.220.39	cache.armorgames.com
 93.184.220.39	gamemedia.armorgames.com
 93.184.220.39	quests.armorgames.com
@@ -38,32 +37,17 @@
 104.20.82.194	m.apkpure.com
 104.20.82.194	static.apkpure.com
 104.20.82.194	translate.apkpure.com
-# Apkpure End
-
-# Archive Start
 207.241.224.22	archive.org
 207.241.224.22	www.archive.org
 207.241.224.22	ia802704.us.archive.org
 207.241.224.22	analytics.archive.org
 207.241.226.190	web.archive.org
-# Archive End
-
-# Box.com Start
 74.112.184.70	app.box.com
 74.112.184.85	m.box.com
-# Box.com End
-
-# BundleStars Start
 23.253.146.21	bundlestars.com
 54.192.232.60	cdn-images.bundlestars.com
 185.12.83.2	support.bundlestars.com
-# BundleStars End
-
-# bandwagonhost.com Start
 104.20.6.63	bandwagonhost.com
-# bandwagonhost.com End
-
-# Disqus Start
 151.101.100.134	disqus.com
 151.101.100.134	www.disqus.com
 151.101.100.134	content.disqus.com
@@ -78,11 +62,6 @@
 23.65.183.218	about.disqus.com
 23.65.183.218	blog.disqus.com
 23.65.183.218	publishers.disqus.com
-# Disqus End
-
-# Dropbox Start
-#######
-# Warning: SNIProxy being used.
 110.4.24.178	db.tt
 110.4.24.178	dropbox.com
 110.4.24.178	m.dropbox.com
@@ -132,15 +111,15 @@
 108.160.172.236	client.dropbox.com
 108.160.172.236	client.v.dropbox.com
 108.160.172.227	log.getdropbox.com
+# Dropbox End
+
+# DuckDuckGo Start
 46.51.216.186	duckduckgo.com
 46.51.216.186	www.duckduckgo.com
 46.51.216.186	ac.duckduckgo.com
 54.251.178.52	icons.duckduckgo.com
 54.251.178.52	images.duckduckgo.com
 96.45.83.209	help.duckduckgo.com
-# DuckDuckGo End
-
-# Facebook start
 157.240.0.17	fb.me
 157.240.0.17	facebook.com
 157.240.0.17	www.facebook.com
@@ -240,18 +219,9 @@
 184.28.188.10	b.static.ak.fbcdn.net
 184.28.188.10	static.ak.fbcdn.net
 184.28.188.10	profile.ak.fbcdn.net
-# Facebook end
-
-# FlipBoard start
 54.225.64.251	beacon.flipboard.com
 54.225.64.251	fbprod.flipboard.com
-# FlipBoard End
-
-# Github start
 192.30.253.118	gist.github.com
-# Github end
-
-# Gmail web Start
 61.91.161.217	chatenabled.mail.google.com
 61.91.161.217	filetransferenabled.mail.google.com
 61.91.161.217	gmail.com
@@ -265,9 +235,6 @@
 61.91.161.217	www.gmail.com
 61.91.161.217	mail-settings.google.com
 64.233.188.121	m.android.com
-# Gmail web End
-
-# Google Start
 61.91.161.217	www.google.com
 61.91.161.217	google.com
 61.91.161.217	gcr.io
@@ -337,6 +304,38 @@
 61.91.161.217	voice.google.com
 61.91.161.217	upload.video.google.com
 61.91.161.217	ads.google.com
+61.91.161.217	students.googleblog.com
+61.91.161.217	chrome.blogspot.com
+61.91.161.217	google-latlong.blogspot.com
+61.91.161.217	insidesearch.blogspot.com
+61.91.161.217	googleadsdeveloper.blogspot.com
+61.91.161.217	officialandroid.blogspot.com
+61.91.161.217	android-developers.blogspot.com
+61.91.161.217	android-developers.blogspot.hk
+61.91.161.217	developers.googleblog.com
+61.91.161.217	books.google.com
+61.91.161.217	books.google.com.hk
+61.91.161.217	buzz.google.com
+61.91.161.217	calendar.google.com
+61.91.161.217	checkout.google.com
+61.91.161.217	wallet.google.com
+61.91.161.217	chrome.com
+61.91.161.217	www.chrome.com
+61.91.161.217	developer.chrome.com
+61.91.161.217	www.chromestatus.com
+61.91.161.217	chrome.google.com
+61.91.161.217	browsersync.google.com
+61.91.161.217	toolbarqueries.google.com.hk
+61.91.161.217	toolbarqueries.clients.google.com
+61.91.161.217	chromium.org
+61.91.161.217	www.chromium.org
+61.91.161.217	cs.chromium.org
+61.91.161.217	dev.chromium.org
+61.91.161.217	blog.chromium.org
+64.233.188.121	bugs.chromium.org
+61.91.161.217	www.appspot.com
+61.91.161.217	appspot.com
+61.91.161.217	apis-explorer.appspot.com
 61.91.161.217	www.googlegroups.com
 61.91.161.217	a.orkut.gmodules.com
 61.91.161.217	www.googlestore.com
@@ -490,38 +489,6 @@
 61.91.161.217	4.bp.blogspot.com
 61.91.161.217	googleblog.blogspot.com
 61.91.161.217	googleforstudents.blogspot.com
-61.91.161.217	students.googleblog.com
-61.91.161.217	chrome.blogspot.com
-61.91.161.217	google-latlong.blogspot.com
-61.91.161.217	insidesearch.blogspot.com
-61.91.161.217	googleadsdeveloper.blogspot.com
-61.91.161.217	officialandroid.blogspot.com
-61.91.161.217	android-developers.blogspot.com
-61.91.161.217	android-developers.blogspot.hk
-61.91.161.217	developers.googleblog.com
-61.91.161.217	books.google.com
-61.91.161.217	books.google.com.hk
-61.91.161.217	buzz.google.com
-61.91.161.217	calendar.google.com
-61.91.161.217	checkout.google.com
-61.91.161.217	wallet.google.com
-61.91.161.217	chrome.com
-61.91.161.217	www.chrome.com
-61.91.161.217	developer.chrome.com
-61.91.161.217	www.chromestatus.com
-61.91.161.217	chrome.google.com
-61.91.161.217	browsersync.google.com
-61.91.161.217	toolbarqueries.google.com.hk
-61.91.161.217	toolbarqueries.clients.google.com
-61.91.161.217	chromium.org
-61.91.161.217	www.chromium.org
-61.91.161.217	cs.chromium.org
-61.91.161.217	dev.chromium.org
-61.91.161.217	blog.chromium.org
-64.233.188.121	bugs.chromium.org
-61.91.161.217	www.appspot.com
-61.91.161.217	appspot.com
-61.91.161.217	apis-explorer.appspot.com
 61.91.161.217	betaspike.appspot.com
 61.91.161.217	hstspreload.appspot.com
 61.91.161.217	chrome-devtools-frontend.appspot.com
@@ -538,6 +505,7 @@
 61.91.161.217	fuchsia.googlesource.com
 61.91.161.217	googlesource.com
 61.91.161.217	boringssl.googlesource.com
+108.177.97.82	tensorflow.googlesource.com
 61.91.161.217	gerrit.googlesource.com
 61.91.161.217	chromium.googlesource.com
 61.91.161.217	kernel.googlesource.com
@@ -556,6 +524,7 @@
 61.91.161.217	www.googlesource.com
 61.91.161.217	android.googlesource.com
 61.91.161.217	cloud.google.com
+61.91.161.217	ogs.google.com
 61.91.161.217	packages.cloud.google.com
 61.91.161.217	console.cloud.google.com
 61.91.161.217	status.cloud.google.com
@@ -3266,9 +3235,6 @@
 110.4.24.178	cdn.syndication.twitter.com
 110.4.24.178	apps.twitter.com
 110.4.24.178	debates.twitter.com
-# Twitter End
-
-# Vimeo Start
 104.156.85.217	vimeo.com
 104.156.85.217	www.vimeo.com
 104.156.85.217	player.vimeo.com
@@ -3276,28 +3242,31 @@
 103.245.224.143	f.vimeocdn.com
 103.245.222.249	vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39	click.email.vimeo.com
-# Vimeo End
-
-# W3schools Start
 66.29.212.110	w3schools.com
 68.232.44.251	www.w3schools.com
-# W3schools End
 
-# Wikipedia Start
 198.35.26.96	wuu.wikipedia.org
 198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
-# Wikipedia End
 
-# Yahoo Start
 192.0.79.32	code.flickr.com
-121.101.144.112	api.flickr.com
+119.161.10.150	api.flickr.com
 202.43.194.205	c5.ah.yahoo.com
 119.160.254.215	d.yimg.com
 106.10.136.195	de.yahoo.com
 119.160.254.215	e.yimg.com
 98.139.21.169	edit.yahoo.com
+69.147.88.13	c.staticflickr.com
+69.147.88.13	c1.staticflickr.com
+69.147.88.13	c2.staticflickr.com
+69.147.88.13	c3.staticflickr.com
+69.147.88.13	c4.staticflickr.com
+69.147.88.13	c5.staticflickr.com
+69.147.88.13	c6.staticflickr.com
+69.147.88.13	c7.staticflickr.com
+69.147.88.13	c8.staticflickr.com
+69.147.88.13	c9.staticflickr.com
 106.10.137.23	farm1.staticflickr.com
 106.10.137.23	farm2.staticflickr.com
 106.10.137.23	farm3.staticflickr.com
@@ -3315,10 +3284,11 @@
 74.6.47.80	gq1.farm5.staticflickr.com
 74.6.47.80	gq1.farm6.staticflickr.com
 98.138.4.56	ne1.farm7.staticflickr.com
-69.147.76.173	flickr.com
+183.177.81.73	flickr.com
 106.10.137.175	geo.query.yahoo.com
 217.12.13.41	geo.yahoo.com
 203.84.197.27	finance.yahoo.com
+203.84.197.27	lh.secure.yahoo.com
 121.101.144.112	hk.finance.yahoo.com
 27.123.201.252	tw.finance.yahoo.com
 119.160.254.215	h.yimg.com
@@ -3339,6 +3309,7 @@
 119.160.254.215	s1.yimg.com
 106.10.193.20	sa.edit.yahoo.com
 208.71.44.31	secure.flickr.com
+106.10.199.11	heartbeat.flickr.com
 106.10.193.30	sp.analytics.yahoo.com
 106.10.137.23	static.flickr.com
 106.10.199.11	tw.news.yahoo.com
@@ -3346,10 +3317,10 @@
 121.101.144.116	up.flickr.com
 204.0.5.34	us.js2.yimg.com
 106.10.138.240	us.yahoo.com
-183.177.81.75	www.flickr.com
+183.177.81.73	www.flickr.com
 106.10.138.240	www.yahoo.com
 98.138.253.109	yahoo.com
 77.238.184.150	ying.com
-183.177.81.75	downloadr.flickr.com
+183.177.81.73	downloadr.flickr.com
 50.18.192.250	duckduckgo-owned-server.yahoo.net
 116.214.11.98	tw.mobi.yahoo.com
