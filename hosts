@@ -37,17 +37,32 @@
 104.20.82.194	m.apkpure.com
 104.20.82.194	static.apkpure.com
 104.20.82.194	translate.apkpure.com
+# Apkpure End
+
+# Archive Start
 207.241.224.22	archive.org
 207.241.224.22	www.archive.org
 207.241.224.22	ia802704.us.archive.org
 207.241.224.22	analytics.archive.org
 207.241.226.190	web.archive.org
+# Archive End
+
+# Box.com Start
 74.112.184.70	app.box.com
 74.112.184.85	m.box.com
+# Box.com End
+
+# BundleStars Start
 23.253.146.21	bundlestars.com
 54.192.232.60	cdn-images.bundlestars.com
 185.12.83.2	support.bundlestars.com
+# BundleStars End
+
+# bandwagonhost.com Start
 104.20.6.63	bandwagonhost.com
+# bandwagonhost.com End
+
+# Disqus Start
 151.101.100.134	disqus.com
 151.101.100.134	www.disqus.com
 151.101.100.134	content.disqus.com
@@ -62,6 +77,11 @@
 23.65.183.218	about.disqus.com
 23.65.183.218	blog.disqus.com
 23.65.183.218	publishers.disqus.com
+# Disqus End
+
+# Dropbox Start
+#######
+# Warning: SNIProxy being used.
 110.4.24.178	db.tt
 110.4.24.178	dropbox.com
 110.4.24.178	m.dropbox.com
@@ -114,12 +134,15 @@
 # Dropbox End
 
 # DuckDuckGo Start
-46.51.216.186	duckduckgo.com
-46.51.216.186	www.duckduckgo.com
-46.51.216.186	ac.duckduckgo.com
-54.251.178.52	icons.duckduckgo.com
-54.251.178.52	images.duckduckgo.com
+50.18.192.250	duckduckgo.com
+50.18.192.250	www.duckduckgo.com
+50.18.192.250	ac.duckduckgo.com
+54.229.110.205	icons.duckduckgo.com
+54.229.110.205	images.duckduckgo.com
 96.45.83.209	help.duckduckgo.com
+# DuckDuckGo End
+
+# Facebook start
 157.240.0.17	fb.me
 157.240.0.17	facebook.com
 157.240.0.17	www.facebook.com
@@ -160,6 +183,7 @@
 157.240.0.17	code.facebook.com
 157.240.0.17	connect.facebook.com
 157.240.0.17	edge-chat.facebook.com
+157.240.7.16	edge-mqtt.facebook.com
 157.240.0.17	pixel.facebook.com
 157.240.0.17	star.c10r.facebook.com
 157.240.0.17	star.facebook.com
@@ -219,9 +243,18 @@
 184.28.188.10	b.static.ak.fbcdn.net
 184.28.188.10	static.ak.fbcdn.net
 184.28.188.10	profile.ak.fbcdn.net
+# Facebook end
+
+# FlipBoard start
 54.225.64.251	beacon.flipboard.com
 54.225.64.251	fbprod.flipboard.com
+# FlipBoard End
+
+# Github start
 192.30.253.118	gist.github.com
+# Github end
+
+# Gmail web Start
 61.91.161.217	chatenabled.mail.google.com
 61.91.161.217	filetransferenabled.mail.google.com
 61.91.161.217	gmail.com
@@ -235,6 +268,9 @@
 61.91.161.217	www.gmail.com
 61.91.161.217	mail-settings.google.com
 64.233.188.121	m.android.com
+# Gmail web End
+
+# Google Start
 61.91.161.217	www.google.com
 61.91.161.217	google.com
 61.91.161.217	gcr.io
@@ -304,38 +340,6 @@
 61.91.161.217	voice.google.com
 61.91.161.217	upload.video.google.com
 61.91.161.217	ads.google.com
-61.91.161.217	students.googleblog.com
-61.91.161.217	chrome.blogspot.com
-61.91.161.217	google-latlong.blogspot.com
-61.91.161.217	insidesearch.blogspot.com
-61.91.161.217	googleadsdeveloper.blogspot.com
-61.91.161.217	officialandroid.blogspot.com
-61.91.161.217	android-developers.blogspot.com
-61.91.161.217	android-developers.blogspot.hk
-61.91.161.217	developers.googleblog.com
-61.91.161.217	books.google.com
-61.91.161.217	books.google.com.hk
-61.91.161.217	buzz.google.com
-61.91.161.217	calendar.google.com
-61.91.161.217	checkout.google.com
-61.91.161.217	wallet.google.com
-61.91.161.217	chrome.com
-61.91.161.217	www.chrome.com
-61.91.161.217	developer.chrome.com
-61.91.161.217	www.chromestatus.com
-61.91.161.217	chrome.google.com
-61.91.161.217	browsersync.google.com
-61.91.161.217	toolbarqueries.google.com.hk
-61.91.161.217	toolbarqueries.clients.google.com
-61.91.161.217	chromium.org
-61.91.161.217	www.chromium.org
-61.91.161.217	cs.chromium.org
-61.91.161.217	dev.chromium.org
-61.91.161.217	blog.chromium.org
-64.233.188.121	bugs.chromium.org
-61.91.161.217	www.appspot.com
-61.91.161.217	appspot.com
-61.91.161.217	apis-explorer.appspot.com
 61.91.161.217	www.googlegroups.com
 61.91.161.217	a.orkut.gmodules.com
 61.91.161.217	www.googlestore.com
@@ -489,6 +493,38 @@
 61.91.161.217	4.bp.blogspot.com
 61.91.161.217	googleblog.blogspot.com
 61.91.161.217	googleforstudents.blogspot.com
+61.91.161.217	students.googleblog.com
+61.91.161.217	chrome.blogspot.com
+61.91.161.217	google-latlong.blogspot.com
+61.91.161.217	insidesearch.blogspot.com
+61.91.161.217	googleadsdeveloper.blogspot.com
+61.91.161.217	officialandroid.blogspot.com
+61.91.161.217	android-developers.blogspot.com
+61.91.161.217	android-developers.blogspot.hk
+61.91.161.217	developers.googleblog.com
+61.91.161.217	books.google.com
+61.91.161.217	books.google.com.hk
+61.91.161.217	buzz.google.com
+61.91.161.217	calendar.google.com
+61.91.161.217	checkout.google.com
+61.91.161.217	wallet.google.com
+61.91.161.217	chrome.com
+61.91.161.217	www.chrome.com
+61.91.161.217	developer.chrome.com
+61.91.161.217	www.chromestatus.com
+61.91.161.217	chrome.google.com
+61.91.161.217	browsersync.google.com
+61.91.161.217	toolbarqueries.google.com.hk
+61.91.161.217	toolbarqueries.clients.google.com
+61.91.161.217	chromium.org
+61.91.161.217	www.chromium.org
+61.91.161.217	cs.chromium.org
+61.91.161.217	dev.chromium.org
+61.91.161.217	blog.chromium.org
+64.233.188.121	bugs.chromium.org
+61.91.161.217	www.appspot.com
+61.91.161.217	appspot.com
+61.91.161.217	apis-explorer.appspot.com
 61.91.161.217	betaspike.appspot.com
 61.91.161.217	hstspreload.appspot.com
 61.91.161.217	chrome-devtools-frontend.appspot.com
@@ -708,7 +744,9 @@
 61.91.161.217	scholar.google.com.hk
 61.91.161.217	scholar.google.com.tw
 61.91.161.217	sites.google.com
+61.91.161.217	surveys.google.com
 61.91.161.217	sketchup.google.com
+61.91.161.217	tagmanager.google.com
 61.91.161.217	talkgadget.google.com
 61.91.161.217	tools.google.com
 61.91.161.217	toolbar.google.com
@@ -761,7 +799,7 @@
 61.91.161.217	realtimesupport.clients6.google.com
 61.91.161.217	360suite.google.com
 61.91.161.217	optimize.google.com
-216.58.203.85	attribution.google.com
+216.58.206.14	attribution.google.com
 61.91.161.217	audiencecenter.google.com
 61.91.161.217	datastudio.google.com
 61.91.161.217	studykit.google.com
@@ -2802,10 +2840,14 @@
 # HumbleBundle End
 
 # imgur Start
-103.245.224.193	imgur.com
-103.245.224.193	www.imgur.com
-103.245.224.193	i.imgur.com
-103.245.224.193	s.imgur.com
+151.101.100.193	imgur.com
+151.101.100.193	m.imgur.com
+151.101.100.193	api.imgur.com
+151.101.100.193	www.imgur.com
+151.101.100.193	store.imgur.com
+151.101.100.193	s.imgur.com
+151.101.100.193	p.imgur.com
+151.101.100.193	i.imgur.com
 # imgur End
 
 # Instagram Start
@@ -3064,6 +3106,13 @@
 134.170.107.72	skyapi.onedrive.live.com
 # OneDrive End
 
+# Psiphon Start
+54.239.168.4	psiphon3.com
+54.239.168.4	www.psiphon3.com
+104.20.39.14	psiphon.ca
+104.20.39.14	www.psiphon.ca
+# Psiphon End
+
 # Smartdnsproxy start
 103.28.248.96	www.smartdnsproxy.com
 184.72.50.35	support.smartdnsproxy.com
@@ -3111,6 +3160,48 @@
 149.154.167.120	web.telegram.org
 # telegram end
 
+# Tor Start
+154.35.132.70	torproject.org
+154.35.132.70	www.torproject.org
+82.195.75.101	archive.torproject.org
+154.35.132.70	atlas.torproject.org
+138.201.14.196	blog.torproject.org
+78.47.38.229	bridges.torproject.org
+154.35.132.70	bugs.torproject.org
+138.201.14.212	check.torproject.org
+154.35.132.70	cloud.torproject.org
+138.201.14.216	collector.torproject.org
+38.229.72.20	compass.torproject.org
+154.35.132.70	consensus-health.torproject.org
+138.201.14.199	db.torproject.org
+154.35.132.70	deb.torproject.org
+154.35.132.70	dist.torproject.org
+138.201.212.231	donate.torproject.org
+138.201.14.214	exonerator.torproject.org
+154.35.132.70	gettor.torproject.org
+138.201.212.228	git.torproject.org
+138.201.212.228	gitweb.torproject.org
+154.35.132.70	help.torproject.org
+161.47.6.182	labs.torproject.org
+138.201.14.202	lists.torproject.org
+82.195.75.101	media.torproject.org
+138.201.14.215	metrics.torproject.org
+154.35.132.70	onion.torproject.org
+78.47.38.227	onionoo.torproject.org
+154.35.132.70	ooni.torproject.org
+52.70.141.81	explorer.ooni.torproject.org
+138.201.14.203	people.torproject.org
+154.35.132.70	research.torproject.org
+138.201.212.230	rt.torproject.org
+154.35.132.70	spec.torproject.org
+78.47.38.231	stem.torproject.org
+78.47.38.231	storm.torproject.org
+138.201.14.206	svn.torproject.org
+154.35.132.70	tb-manual.torproject.org
+138.201.212.227	trac.torproject.org
+154.35.132.70	wiki.torproject.org
+# Tor End
+
 # Travis CI Start
 151.101.76.249	travis-ci-org.global.ssl.fastly.net
 # Travis CI End
@@ -3123,6 +3214,7 @@
 66.6.32.22	cynicallys.tumblr.com
 66.6.32.22	mx.tumblr.com
 54.182.6.6	vt.tumblr.com
+87.248.116.14	vt.media.tumblr.com
 216.115.100.126	vtt.tumblr.com
 66.6.32.162	ls.srvcs.tumblr.com
 66.6.32.162	px.srvcs.tumblr.com
@@ -3164,38 +3256,38 @@
 # Tumblr End
 
 # Twitter Start
-110.4.24.178	twitter.com
-110.4.24.178	www.twitter.com
-110.4.24.178	t.co
-110.4.24.178	api.twitter.com
-110.4.24.178	mobile.twitter.com
-110.4.24.178	support.twitter.com
-110.4.24.178	upload.twitter.com
-110.4.24.178	tweetdeck.twitter.com
-110.4.24.178	syndication.twitter.com
-110.4.24.178	platform.twitter.com
-110.4.24.178	about.twitter.com
-110.4.24.178	blog.twitter.com
-110.4.24.178	betastream.twitter.com
-110.4.24.178	dev.twitter.com
-110.4.24.178	pic.twitter.com
-110.4.24.178	search.twitter.com
-110.4.24.178	status.twitter.com
-110.4.24.178	assets0.twitter.com
-110.4.24.178	assets1.twitter.com
-110.4.24.178	assets2.twitter.com
-110.4.24.178	assets3.twitter.com
-110.4.24.178	assets4.twitter.com
-110.4.24.178	static.twitter.com
-110.4.24.178	help.twitter.com
-110.4.24.178	ton.twitter.com
-110.4.24.178	s.twitter.com
-110.4.24.178	analytics.twitter.com
-110.4.24.178	urls-real.api.twitter.com
-110.4.24.178	userstream.twitter.com
-110.4.24.178	sitestream.twitter.com
-110.4.24.178	stream.twitter.com
-110.4.24.178	tdweb.twitter.com
+104.244.45.1	twitter.com
+104.244.45.1	www.twitter.com
+185.45.5.47	t.co
+104.244.45.1	api.twitter.com
+104.244.45.1	mobile.twitter.com
+104.244.45.1	support.twitter.com
+104.244.45.1	upload.twitter.com
+104.244.45.1	tweetdeck.twitter.com
+104.244.45.1	syndication.twitter.com
+104.244.45.1	platform.twitter.com
+104.244.45.1	about.twitter.com
+104.244.45.1	blog.twitter.com
+104.244.45.1	betastream.twitter.com
+104.244.45.1	dev.twitter.com
+104.244.45.1	pic.twitter.com
+104.244.45.1	search.twitter.com
+104.244.45.1	status.twitter.com
+104.244.45.1	assets0.twitter.com
+104.244.45.1	assets1.twitter.com
+104.244.45.1	assets2.twitter.com
+104.244.45.1	assets3.twitter.com
+104.244.45.1	assets4.twitter.com
+104.244.45.1	static.twitter.com
+104.244.45.1	help.twitter.com
+104.244.45.1	ton.twitter.com
+104.244.45.1	s.twitter.com
+104.244.45.1	analytics.twitter.com
+104.244.45.1	urls-real.api.twitter.com
+104.244.45.1	userstream.twitter.com
+104.244.45.1	sitestream.twitter.com
+104.244.45.1	stream.twitter.com
+104.244.45.1	tdweb.twitter.com
 173.236.110.98	twitpic.com
 173.236.110.98	m1.twitpic.com
 173.236.110.98	web1.twitpic.com
@@ -3231,10 +3323,13 @@
 104.244.42.196	web.tweetdeck.com
 104.244.42.196	www.tweetdeck.com
 104.244.42.196	downloads.tweetdeck.com
-110.4.24.178	cdn.syndication.twimg.com
-110.4.24.178	cdn.syndication.twitter.com
-110.4.24.178	apps.twitter.com
-110.4.24.178	debates.twitter.com
+104.244.43.17	cdn.syndication.twimg.com
+104.244.43.40	cdn.syndication.twitter.com
+104.244.45.1	apps.twitter.com
+104.244.45.1	debates.twitter.com
+# Twitter End
+
+# Vimeo Start
 104.156.85.217	vimeo.com
 104.156.85.217	www.vimeo.com
 104.156.85.217	player.vimeo.com
@@ -3242,14 +3337,21 @@
 103.245.224.143	f.vimeocdn.com
 103.245.222.249	vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39	click.email.vimeo.com
+# Vimeo End
+
+# W3schools Start
 66.29.212.110	w3schools.com
 68.232.44.251	www.w3schools.com
+# W3schools End
 
+# Wikipedia Start
 198.35.26.96	wuu.wikipedia.org
 198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
+# Wikipedia End
 
+# Yahoo Start
 192.0.79.32	code.flickr.com
 119.161.10.150	api.flickr.com
 202.43.194.205	c5.ah.yahoo.com
@@ -3324,3 +3426,6 @@
 183.177.81.73	downloadr.flickr.com
 50.18.192.250	duckduckgo-owned-server.yahoo.net
 116.214.11.98	tw.mobi.yahoo.com
+# Yahoo End
+
+# Modified hosts end
