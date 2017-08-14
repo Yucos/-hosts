@@ -1,5 +1,5 @@
-%tmp%\wget.exe https://raw.githubusercontent.com/Yucos/-hosts/master/hosts -O "%tmp%\hosts"
-copy /y "%tmp%\hosts" "%SystemRoot%\System32\drivers\etc\hosts"
+wget https://raw.githubusercontent.com/Yucos/-hosts/master/hosts -O S:\hosts
+for %%a in (S:\hosts) do if %%~za==0 (echo 空空空空空文件) else (copy /y S:\hosts "%SystemRoot%\System32\drivers\etc\hosts")
 ipconfig /flushdns
 @echo ------------------------------
 @echo *                            *
