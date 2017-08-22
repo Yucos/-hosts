@@ -1,3 +1,5 @@
+根据 https://github.com/racaljk/hosts修改
+
 #需要强制https访问
 
 ##在chrome浏览器的地址栏输入chrome://net-internals/
