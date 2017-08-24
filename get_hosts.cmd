@@ -7,4 +7,3 @@ ipconfig /flushdns
 head -3 C:\WINDOWS\System32\drivers\etc\hosts
 @echo *                            *
 @echo ------------------------------
-pause
