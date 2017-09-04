@@ -1225,11 +1225,11 @@
 # Google End
 
 # Google:Chrome/Chromium Start
-216.239.32.27	chromium.org
-216.239.32.27	www.chromium.org
-216.239.32.27	cs.chromium.org
-216.239.32.27	dev.chromium.org
-216.239.32.27	blog.chromium.org
+216.58.195.238	chromium.org
+216.58.195.238	www.chromium.org
+216.58.195.238	cs.chromium.org
+216.58.195.238	dev.chromium.org
+216.58.195.238	blog.chromium.org
 74.125.248.80	gerrit.chromium.org
 216.58.203.115	bugs.chromium.org
 # Google:Chrome/Chromium End
@@ -2575,7 +2575,7 @@
 # Googleusercontent End
 
 # Google:code Start
-64.233.189.82	googlecode.l.googleusercontent.com
+216.58.195.238	googlecode.l.googleusercontent.com
 # Google:code End
 
 # Google:groups Start
