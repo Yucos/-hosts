@@ -408,25 +408,19 @@
 151.101.72.249	global-ssl.fastly.net
 # Github End
 
-# Gmail web Start
-216.58.195.238	gmail.com
-216.58.195.238	www.gmail.com
-216.58.195.238	m.gmail.com
-216.58.195.238	m.googlemail.com
-216.58.195.238	gmail.google.com
-216.58.195.238	inbox.google.com
-216.58.195.238	mail.google.com
-216.58.195.238	mail-settings.google.com
-216.58.195.238	chatenabled.mail.google.com
-216.58.195.238	filetransferenabled.mail.google.com
-216.58.195.238	googlemail.l.google.com
-216.58.195.238	isolated.mail.google.com
-216.58.195.238	gmail-smtp-in.l.google.com
-216.58.195.238	alt1.gmail-smtp-in.l.google.com
-216.58.195.238	alt2.gmail-smtp-in.l.google.com
-216.58.195.238	alt3.gmail-smtp-in.l.google.com
-216.58.195.238	alt4.gmail-smtp-in.l.google.com
-# Gmail web End
+# Gmail Start
+108.177.125.114	gmail.com
+108.177.125.114	www.gmail.com
+108.177.125.114	mail-settings.google.com
+108.177.125.114	m.gmail.com
+108.177.125.114	m.googlemail.com
+108.177.125.114	gmail.google.com
+108.177.125.114	inbox.google.com
+108.177.125.114	mail.google.com
+108.177.125.114	chatenabled.mail.google.com
+108.177.125.114	filetransferenabled.mail.google.com
+108.177.125.114	isolated.mail.google.com
+# Gmail End
 
 # Google Start
 216.58.195.238	com.google
